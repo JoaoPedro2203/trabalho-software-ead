@@ -4,9 +4,9 @@
   "description": "Sistema de gerenciamento de tarefas utilizando metodologias ágeis",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "npx jest"
   },
-  "author": "Erick",
+  "author": "Joao Pedro",
   "license": "MIT",
   "devDependencies": {
     "gh-pages": "^6.3.0",
